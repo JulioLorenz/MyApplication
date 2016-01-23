@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="texto_inicial">Initial Text</string>
+    <string name="texto_novo">New Text</string>
+</resources>
